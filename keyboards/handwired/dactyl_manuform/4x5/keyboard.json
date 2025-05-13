@@ -29,7 +29,7 @@
         }
     },
     "matrix_pins": {
-        "cols": ["C6", "D7", "E6", "B4", "B5"],
+        "cols": ["B5", "B4", "E6", "D7", "C6"],
         "rows": ["F7", "B1", "B3", "B2", "B6"]
     },
     "diode_direction": "COL2ROW",
