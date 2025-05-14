@@ -71,7 +71,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                           KC_LBRC, KC_RBRC,                                                        KC_MINS, KC_EQL,
                                             SFT_ESC, CTL_BSPC,                     KC_SPC, KC_LSFT,
                                                      ALT_DEL, RAISE,    LOWER, ALT_ENT,
-                                                     KC_HOME, KC_GRV,   KC_LGUI, CTL_END
+                                                     KC_GRV, KC_HOME,   CTL_END, KC_LGUI
                                 //ORIGINAL:         //ALT_DEL, KC_HOME,  CTL_END, ALT_ENT,
                                 //(i soldered wrong //RAISE,   KC_GRV,   KC_LGUI, LOWER
     ),
@@ -82,7 +82,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                  KC_LBRC, KC_RBRC,                                                               KC_MINS, KC_EQL,
                                             SFT_ESC, CTL_BSPC,                     KC_SPC, KC_LSFT,
                                                      ALT_DEL, RAISE,    LOWER, ALT_ENT,
-                                                     KC_HOME, KC_GRV,   KC_LGUI, CTL_END
+                                                     KC_GRV, KC_HOME,   CTL_END, KC_LGUI
     ),
 
     /* Raise
